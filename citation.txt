@@ -1,0 +1,7 @@
+@inproceedings{REPO135,
+    author = "Zhou, Jiancan and Jia, Xi and Li, Qiufu and Shen, Linlin and Duan, Jinming",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+    pages = "20730-20739",
+    title = "{UniFace: Unified Cross-Entropy Loss for Deep Face Recognition}",
+    year = "2023"
+}
